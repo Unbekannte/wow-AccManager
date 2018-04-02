@@ -1,0 +1,9 @@
+E:\!!progs\AccManager\AccManager\bin\Release\AccManager.exe.config
+E:\!!progs\AccManager\AccManager\bin\Release\AccManager.exe
+E:\!!progs\AccManager\AccManager\bin\Release\AccManager.pdb
+E:\!!progs\AccManager\AccManager\obj\Release\AccManager.csprojResolveAssemblyReference.cache
+E:\!!progs\AccManager\AccManager\obj\Release\AccManager.Form1.resources
+E:\!!progs\AccManager\AccManager\obj\Release\AccManager.Properties.Resources.resources
+E:\!!progs\AccManager\AccManager\obj\Release\AccManager.csproj.GenerateResource.Cache
+E:\!!progs\AccManager\AccManager\obj\Release\AccManager.exe
+E:\!!progs\AccManager\AccManager\obj\Release\AccManager.pdb
